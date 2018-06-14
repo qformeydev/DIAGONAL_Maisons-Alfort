@@ -226,12 +226,12 @@ li{
 }
 .primeurs_img img{
     width: 200px;
-    filter: grayscale(100%);
 }
 .primeurs_img img:hover{
-    width: 200px;
-    filter: grayscale(0%);
-    transition: all 1s;
+    width: 220px;
+    transition: all 0.5s;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .primeurs_img{
     margin-left: 25px;
@@ -274,11 +274,12 @@ li{
     padding-top: 1px;
 }
 .equipeimg img{
-    filter: grayscale(100%);
     width: 300px;
 }
 .equipeimg img:hover{
-    filter: grayscale(0%);
+    width: 320px;
+    margin-left: 50px;
+    margin-right: 50px;
     transition: all 1s;
 }
 #profil_bottom{
