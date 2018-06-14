@@ -34,7 +34,7 @@ li{
 .team_nav, .promos_nav, .about_nav, .primeur_nav{
     display: block;
     text-align: center;
-    padding: 30px 15px 30px;
+    padding: 29px 15px 30px;
     text-decoration: none;
     color: #0d0d0d;
     float: right;
@@ -61,7 +61,7 @@ li{
     text-align: center;
     text-decoration: none;
     float: right;
-    padding: 20px 15px 19px;
+    padding: 19px 15px 19px;
 }
 .img_instagram:hover{
     background-color: #ff0000;
@@ -83,6 +83,7 @@ li{
     background-repeat: no-repeat;
     width: 100%;
     position: relative;
+    overflow: hidden;
 }
 .txt_on_img{
     width: 100%;
